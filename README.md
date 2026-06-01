@@ -9,15 +9,14 @@
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudante e Desenvolvedor Frontend
-- 💻 Focado em React, Next.js e TypeScript
-- 🌱 Aprendendo constantemente novas tecnologias
-- 🎯 Objetivo: tornar-me um desenvolvedor Frontend de alto nível
-- ⚡ Gosto de transformar ideias em aplicações funcionais
+- 💻 Desenvolvedor Frontend
+- 📚 Atualmente estudando e evoluindo minhas habilidades
+- ⚛️ Focado em React, Next.js e TypeScript
+- 🎯 Construindo projetos para fortalecer meu portfólio
 
 ---
 
-## 🛠️ Tecnologias & Skills
+## 🛠 Tecnologias & Skills
 
 ### Linguagens
 
@@ -26,51 +25,46 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks & Bibliotecas
+### Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📂 Projetos
+# 🚀 Projeto em Destaque
 
-Neste GitHub encontrarás:
+## 🎬 Streaming Site
 
-- 🌐 Projetos de desenvolvimento web
-- ⚛️ Aplicações com React e Next.js
-- 📘 Projetos de estudo e aprendizagem
-- 🚀 Experiências com TypeScript e tecnologias modernas
+Plataforma moderna de streaming desenvolvida com foco em interface, experiência do usuário e design moderno.
 
-Cada projeto é desenvolvido com foco em organização, performance e boas práticas.
+### Tecnologias
+- React
+- TypeScript
+- CSS
 
----
+### Links
 
-## 🎯 Objetivos Profissionais
+🔗 Demo:
+https://streming-site.vercel.app/
 
-- Consolidar conhecimentos em Frontend
-- Participar de projetos reais e colaborativos
-- Contribuir para projetos Open Source
-- Evoluir para Full Stack no futuro
-- Construir soluções modernas e escaláveis
+🔗 Repositório:
+https://github.com/KieneDaniel/Streming-Site
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🎯 Objetivos
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KieneDaniel&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieneDaniel&layout=compact&theme=tokyonight" />
-</p>
+- Evoluir como Desenvolvedor Frontend
+- Participar de projetos reais
+- Aprender arquitetura moderna de aplicações
+- Expandir conhecimentos para Full Stack futuramente
 
 ---
 
@@ -82,4 +76,4 @@ Cada projeto é desenvolvido com foco em organização, performance e boas prát
 
 ---
 
-⭐ Se algum projeto te interessar, fica à vontade para deixar uma estrela.
+⭐ Obrigado por visitar meu perfil.
