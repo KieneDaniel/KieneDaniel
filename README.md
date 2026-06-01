@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Kiene Daniel</h1>
 
 <p align="center">
-  Desenvolvedor Frontend em formação apaixonado por criar interfaces modernas,
+  Desenvolvedor Front-end apaixonado por criar interfaces modernas,
   responsivas e experiências digitais intuitivas.
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre Mim
 
-- 💻 Desenvolvedor Frontend
+- 💻 Desenvolvedor Front-end
 - 📚 Atualmente estudando e evoluindo minhas habilidades
 - ⚛️ Focado em React, Next.js e TypeScript
 - 🎯 Construindo projetos para fortalecer meu portfólio
@@ -36,35 +36,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-# 🚀 Projeto em Destaque
-
-## 🎬 Streaming Site
-
-Plataforma moderna de streaming desenvolvida com foco em interface, experiência do usuário e design moderno.
-
-### Tecnologias
-- React
-- TypeScript
-- CSS
-
-### Links
-
-🔗 Demo:
-https://streming-site.vercel.app/
-
-🔗 Repositório:
-https://github.com/KieneDaniel/Streming-Site
 
 ---
 
 ## 🎯 Objetivos
 
-- Evoluir como Desenvolvedor Frontend
+- Evoluir como Desenvolvedor 
 - Participar de projetos reais
 - Aprender arquitetura moderna de aplicações
-- Expandir conhecimentos para Full Stack futuramente
+- Expandir conhecimentos para tornar-me cada vez melhor
 
 ---
 
