@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Kiene Daniel</h1>
 
 <p align="center">
-  Desenvolvedor Front-end apaixonado por criar interfaces modernas,
+  Desenvolvedor Web apaixonado por criar interfaces modernas,
   responsivas e experiências digitais intuitivas.
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre Mim
 
-- 💻 Desenvolvedor Front-end
+- 💻 Desenvolvedor Web, atualmente focado no desenvolvimento Front-end
 - 📚 Atualmente estudando e evoluindo minhas habilidades
 - ⚛️ Focado em React, Next.js e TypeScript
 - 🎯 Construindo projetos para fortalecer meu portfólio
